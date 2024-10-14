@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Saul Camarillo</h1>
+<h3 align="center">Student at ITST 🌟.</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I'm currently studying Ingenieria en Sistemas Computacionales at the Instituto Tecnológico Superior de Teziutlán.\
+🌱 &nbsp;I'm on track for learning more about Front End and Back End dev, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at saulcam_s01@hotmail.com! I'll try to respond as soon as I can.\
 
@@ -29,18 +29,16 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
+  <a href="https://www.linkedin.com/in/saul-camarillo-14346a221/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Saul Camsa" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/sapo.camsa" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Saul Camsa" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/saul.camsa/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Saul Camsa" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="[https://instagram.com/adityavs_](https://www.instagram.com/saul.camsa/)"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
