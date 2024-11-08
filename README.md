@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I enjoy exploring new technologies and creating software solutions, from robust applications to quick, innovative hacks.\
 🎓 &nbsp;I'm currently studying Ingenieria en Sistemas Computacionales at the Instituto Tecnológico Superior de Teziutlán.\
 🌱 &nbsp;I'm on track for learning more about Front End and Back End dev, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
