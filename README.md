@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saul Camarillo</h1>
-<h3 align="center">Student at ITST 🌟.</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
